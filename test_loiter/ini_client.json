@@ -1,0 +1,2 @@
+{"id":[1347],"cam_id":"cam1","algo_id":"2","rois":[[[0,720],[1280,720],[1280,0],[0,0]]], "id_account":"cc730777","time_thres":1,"id_branch":"cc730777","ffserver_ip":"http:\/\/broadcast:8090\/feed3.ffm","yoloHandUrl":"tcp:\/\/sam-yolo_handle:10002","camera_res":[1280,720],"mysql_ip":"mysql","mysql_user":"graymatics","mysql_pwd":"graymatics","mysql_db":"multi_tenant","output_path":"/home/shares/input/nat/hpe_loiter.avi","confidence":0.3,"alertVideo":{"run":0},"alert_img":0,"time_thresh":10,"cam_name":"camName","input_path":"\/home\/shares\/input\/loitering1.mp4"}
+
